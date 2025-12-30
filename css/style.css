@@ -192,9 +192,9 @@ img#celulares {
 
 @media(max-width: 768px){
 
-    img#logo { 
-          margin: 65px 0 0 60px;
-  }
+img#logo { 
+  margin: 65px 0 0 60px;
+}
 
   main {
     width: 648px;
@@ -213,7 +213,7 @@ img#celulares {
   }
 
   img#celulares {
-    width: 659px;
+    width: 648px;
     height: 446px;
   }
 }
@@ -231,6 +231,8 @@ img#celulares {
 
   h1 span {
     font-size: 40px;
+    width: 341px;
+    height: 150px;
   }
 
   h1 {
